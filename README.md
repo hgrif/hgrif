@@ -7,7 +7,7 @@ I build AI products and AI teams.
 You can find:
 
 - My 👨‍💼 profile @ [LinkedIN](https://www.linkedin.com/in/henkgriffioen/)
-- Some of my 💭  @ [GoDataDriven's blog](https://godatadriven.com/blog/)
+- Some of my 💭  @ [Xebia's blog]([https://godatadriven.com/blog/](https://xebia.com/blog/author/henk-griffioenxebia-com/))
 
 --- 
 
